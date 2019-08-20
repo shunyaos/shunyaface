@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.8)
 
 SET(SRC
-	src/facerec-test.cpp
+	src/facedetect-sample.cpp
 )
 
 SET(INC_DIR /usr)
@@ -23,5 +23,6 @@ include_directories(${OpenCV_DIR}/include)
 include_directories(/usr/include/fr/)
 include_directories(/usr/include/fr/model/)
 include_directories(${INC_DIR}/include)
-add_executable(facetest ${SRC})
-TARGET_LINK_LIBRARIES(facetest ${OpenCV_LIBS} -lshunyaface)
+add_executable(facedetect ${SRC})
+TARGET_LINK_LIBRARIES(facedetect ${OpenCV_LIBS} -lshunyaface)
+
