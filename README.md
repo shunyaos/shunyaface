@@ -1,11 +1,10 @@
 # Shunyaface Library
 
-> Shunyaface is a face Detection/Recognition Library which simplifies face recognition/detection on devices which support Shunya OS. 
-It is written in C++.
-This library was created after studying the best features of MTCNN,Dlib,Opencv .
-Some layers of MTCNN were replaced with new techniques to get faster results .
-To make it faster ,it uses a custom OS -Shunya which is optimised for AI libraries .
+> Shunyaface is a face Detection/Recognition Library which simplifies face detection/recognition on devices which support Shunya OS. 
 
+It is written in C++. This library was created after studying the best features of **MTCNN,Dlib,Opencv**.
+
+Some layers of MTCNN were replaced with new techniques to get faster results. To make it faster ,it uses a **custom OS -Shunya** which is optimised for AI libraries .
 
 ## Table of contents
 * [General info](#general-info)
@@ -20,6 +19,7 @@ To make it faster ,it uses a custom OS -Shunya which is optimised for AI librari
 The project aims to achieve fastest detection and recognition speed with low power hardware. 
 Shunyaface is written for embedded-devices like RPI-4,RPI-3,Hikey970,etc and uses Shunyaos.
 Currently the library **achieves a detection FPS of 16-17 FPS on the RaspberryPi-4**. 
+
 This Library is a trial edition and will support detection/recognition upto 100 faces.
 
 
