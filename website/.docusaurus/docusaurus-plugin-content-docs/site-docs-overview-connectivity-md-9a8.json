@@ -1,0 +1,8 @@
+{
+  "id": "overview/connectivity",
+  "title": "Connectivity",
+  "description": "| Name     | Status  |",
+  "source": "@site/docs/overview/connectivity.md",
+  "permalink": "/shunyaface/docs/overview/connectivity",
+  "sidebar_label": "Connectivity"
+}

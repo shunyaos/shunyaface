@@ -1,0 +1,8 @@
+{
+  "id": "overview/sensors",
+  "title": "Sensors",
+  "description": "Digital Sensors",
+  "source": "@site/docs/overview/sensors.md",
+  "permalink": "/shunyaface/docs/overview/sensors",
+  "sidebar_label": "Sensors"
+}

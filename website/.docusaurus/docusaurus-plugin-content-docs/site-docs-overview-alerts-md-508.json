@@ -1,0 +1,8 @@
+{
+  "id": "overview/alerts",
+  "title": "Alerts",
+  "description": "Send Alerts via",
+  "source": "@site/docs/overview/alerts.md",
+  "permalink": "/shunyaface/docs/overview/alerts",
+  "sidebar_label": "Alerts"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overview/plc",
+  "title": "PLC's, Meters, DCS & Controllers",
+  "description": "Shunya Interfaces currently supports PLC's with modbus support.",
+  "source": "@site/docs/overview/plc.md",
+  "permalink": "/shunyaface/docs/overview/plc",
+  "sidebar_label": "PLC's & Meters"
+}

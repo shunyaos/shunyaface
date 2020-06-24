@@ -1,0 +1,13 @@
+{
+  "id": "apis/apis",
+  "title": "APIs Documentation",
+  "description": "Understand APIs and their usage to make different face applications.",
+  "source": "@site/docs/apis/apis.md",
+  "permalink": "/shunyaface/docs/apis/apis",
+  "sidebar_label": "APIs Documentation",
+  "sidebar": "intro",
+  "previous": {
+    "title": "Build your first AI Face Application",
+    "permalink": "/shunyaface/docs/get-started/first-app"
+  }
+}

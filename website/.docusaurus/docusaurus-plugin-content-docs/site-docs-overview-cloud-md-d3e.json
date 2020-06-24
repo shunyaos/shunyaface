@@ -1,0 +1,8 @@
+{
+  "id": "overview/cloud",
+  "title": "Cloud",
+  "description": "| Name     | Status  |",
+  "source": "@site/docs/overview/cloud.md",
+  "permalink": "/shunyaface/docs/overview/cloud",
+  "sidebar_label": "Cloud"
+}

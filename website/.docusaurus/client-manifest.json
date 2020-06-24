@@ -1,0 +1,492 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      6,
+      23,
+      34,
+      35,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      23,
+      34,
+      35,
+      2
+    ],
+    "styles": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      8,
+      10,
+      12,
+      14,
+      15,
+      17,
+      19,
+      22,
+      23,
+      25,
+      32,
+      33,
+      34,
+      35,
+      0
+    ],
+    "@site/docs/overview/plc.md": [
+      3
+    ],
+    "@site/docs/get-started/first-app.md": [
+      0,
+      4
+    ],
+    "@site/docs/build-solutions/categories/01-temperature.md": [
+      5
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      2,
+      35
+    ],
+    "@site/docs/build-solutions/categories/07-liquid_flow.md": [
+      0,
+      7
+    ],
+    "@site/docs/build-solutions/05-design.md": [
+      0,
+      8
+    ],
+    "@site/docs/overview/embedded-boards.md": [
+      9
+    ],
+    "@site/docs/apis/apis.md": [
+      0,
+      10
+    ],
+    "@site/docs/build-solutions/04-define.md": [
+      11
+    ],
+    "@site/docs/overview/actuators.md": [
+      0,
+      12
+    ],
+    "@site/docs/overview/alerts.md": [
+      13
+    ],
+    "@site/docs/build-solutions/categories/06-light.md": [
+      0,
+      14
+    ],
+    "@site/docs/demos/face-recognition.md": [
+      0,
+      15
+    ],
+    "@site/docs/build-solutions/01-intro.md": [
+      16
+    ],
+    "@site/docs/build-solutions/categories/05-distance.md": [
+      0,
+      17
+    ],
+    "@site/docs/build-solutions/categories/09-current.md": [
+      18
+    ],
+    "@site/docs/build-solutions/categories/08-analog_voltage.md": [
+      0,
+      19
+    ],
+    "@site/docs/overview/introduction.md": [
+      20
+    ],
+    "@site/docs/build-solutions/categories/02-pressure.md": [
+      21
+    ],
+    "@site/docs/overview/connectivity.md": [
+      0,
+      22
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      2,
+      23
+    ],
+    "@site/docs/build-solutions/categories/501-led.md": [
+      24
+    ],
+    "@site/docs/overview/cloud.md": [
+      0,
+      25
+    ],
+    "~docs/shunyaface-docs-route-1ac.json": [
+      26
+    ],
+    "@site/docs/build-solutions/categories/03-humidity.md": [
+      27
+    ],
+    "@site/docs/overview/sensors.md": [
+      28
+    ],
+    "@site/docs/build-solutions/categories/502-relay.md": [
+      29
+    ],
+    "@site/docs/build-solutions/categories/04-altitude.md": [
+      30
+    ],
+    "@site/docs/overview/dashboard.md": [
+      31
+    ],
+    "main": [
+      0,
+      33,
+      32
+    ],
+    "runtime~main": [
+      0,
+      32,
+      33
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      35
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      2,
+      35
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "styles.c3e489e9.css",
+          "hash": "f2b29dbff14f446502c3",
+          "publicPath": "/shunyaface/styles.c3e489e9.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.954673a4.js",
+          "hash": "f2b29dbff14f446502c3",
+          "publicPath": "/shunyaface/styles.954673a4.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "1.fdbc9636.js",
+          "hash": "9f92783ad88ccd500a6a",
+          "publicPath": "/shunyaface/1.fdbc9636.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "2.597161c6.js",
+          "hash": "66e19acf609b2dabd705",
+          "publicPath": "/shunyaface/2.597161c6.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "060633bd.b89c5d09.js",
+          "hash": "4feafdb0a9dbde2ee290",
+          "publicPath": "/shunyaface/060633bd.b89c5d09.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "0983b074.2c937199.js",
+          "hash": "562dea8279cfb8970ec1",
+          "publicPath": "/shunyaface/0983b074.2c937199.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "0d531224.dff51b68.js",
+          "hash": "6395056825f597e6af23",
+          "publicPath": "/shunyaface/0d531224.dff51b68.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "1936fe39.060e35ff.js",
+          "hash": "9ecbc1d648df704df2f7",
+          "publicPath": "/shunyaface/1936fe39.060e35ff.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "1951b7df.971add48.js",
+          "hash": "95c8381514da31ce09c7",
+          "publicPath": "/shunyaface/1951b7df.971add48.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "2051d327.1e086b56.js",
+          "hash": "d01b4dd3f70c484d67e7",
+          "publicPath": "/shunyaface/2051d327.1e086b56.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "2ee8e562.b3153a2d.js",
+          "hash": "82a637c80728b3dae488",
+          "publicPath": "/shunyaface/2ee8e562.b3153a2d.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "3d5d5cc3.932b484a.js",
+          "hash": "d6fb89f828b39d59affd",
+          "publicPath": "/shunyaface/3d5d5cc3.932b484a.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "4a8288b4.76c7cead.js",
+          "hash": "9d1c7ad77a73ed5e1940",
+          "publicPath": "/shunyaface/4a8288b4.76c7cead.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "508ae5fc.a6be3a14.js",
+          "hash": "ecd6f0f5de2129dd53b9",
+          "publicPath": "/shunyaface/508ae5fc.a6be3a14.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "5a8ac0bb.6d072265.js",
+          "hash": "836d26118f0436be8340",
+          "publicPath": "/shunyaface/5a8ac0bb.6d072265.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "5b4d6ce8.28bbe1a2.js",
+          "hash": "ca7f5b13b0a5628ad7cd",
+          "publicPath": "/shunyaface/5b4d6ce8.28bbe1a2.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "5d9ceb4f.4ba760e9.js",
+          "hash": "51a2a43a2fac699c9376",
+          "publicPath": "/shunyaface/5d9ceb4f.4ba760e9.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "7148dfef.f13e4a65.js",
+          "hash": "16b8d115ab396371fdb6",
+          "publicPath": "/shunyaface/7148dfef.f13e4a65.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "7bea6041.999c3f16.js",
+          "hash": "d400310467a08196897e",
+          "publicPath": "/shunyaface/7bea6041.999c3f16.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "7d5005e9.6650a88b.js",
+          "hash": "d674f4fdf5c3410f5dd1",
+          "publicPath": "/shunyaface/7d5005e9.6650a88b.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "8d7e75fb.7602d1ef.js",
+          "hash": "5de856d5133a1da13555",
+          "publicPath": "/shunyaface/8d7e75fb.7602d1ef.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "93ff19f6.becb266c.js",
+          "hash": "9cd41850e5e9dd2ff128",
+          "publicPath": "/shunyaface/93ff19f6.becb266c.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "9a81b1fd.e64fac91.js",
+          "hash": "df9c95fb07c467e3a753",
+          "publicPath": "/shunyaface/9a81b1fd.e64fac91.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "c4f5d8e4.78f61978.js",
+          "hash": "5acfc676b9452053333a",
+          "publicPath": "/shunyaface/c4f5d8e4.78f61978.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "c8ca6d0f.57ed5996.js",
+          "hash": "6fc4102c244720b26418",
+          "publicPath": "/shunyaface/c8ca6d0f.57ed5996.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "d3e7ad44.7d536104.js",
+          "hash": "fff1dafee2047ed93b86",
+          "publicPath": "/shunyaface/d3e7ad44.7d536104.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "d89250cc.3b0cdcee.js",
+          "hash": "e66cd18f439feb5a8a95",
+          "publicPath": "/shunyaface/d89250cc.3b0cdcee.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "dddaf10c.62825995.js",
+          "hash": "6ba4f4b324c4addddd81",
+          "publicPath": "/shunyaface/dddaf10c.62825995.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "e7f639d7.b4d7d328.js",
+          "hash": "3135165ecfd780137a34",
+          "publicPath": "/shunyaface/e7f639d7.b4d7d328.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "edcd3a2a.e1aade67.js",
+          "hash": "0c1dc4007452c968a18a",
+          "publicPath": "/shunyaface/edcd3a2a.e1aade67.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "f88df398.b8dec087.js",
+          "hash": "8ea32fc46cbee1267010",
+          "publicPath": "/shunyaface/f88df398.b8dec087.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "ff3fad31.2b883a58.js",
+          "hash": "b5bfb915132e5df0b2dd",
+          "publicPath": "/shunyaface/ff3fad31.2b883a58.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "main.78d72a27.js",
+          "hash": "28b5525bdfd353a24c96",
+          "publicPath": "/shunyaface/main.78d72a27.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "runtime~main.3e3cd85a.js",
+          "hash": "cf0a15158d3714698b5f",
+          "publicPath": "/shunyaface/runtime~main.3e3cd85a.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "34.f08e29c7.js",
+          "hash": "3d65117c47278c158a6b",
+          "publicPath": "/shunyaface/34.f08e29c7.js"
+        },
+        {
+          "file": "35.c7ab25f2.js",
+          "hash": "969bc1faaaffbf6c6069",
+          "publicPath": "/shunyaface/35.c7ab25f2.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overview/actuators",
+  "title": "Actuators",
+  "description": "Introduction",
+  "source": "@site/docs/overview/actuators.md",
+  "permalink": "/shunyaface/docs/overview/actuators",
+  "sidebar_label": "Actuators"
+}

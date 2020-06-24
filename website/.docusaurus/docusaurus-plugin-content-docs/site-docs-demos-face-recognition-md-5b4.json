@@ -1,0 +1,13 @@
+{
+  "id": "demos/face-recognition",
+  "title": "Face Recognition",
+  "description": "The demo can be used to register and recognize a face of a person on edge device with ShunyaFace APIs.",
+  "source": "@site/docs/demos/face-recognition.md",
+  "permalink": "/shunyaface/docs/demos/face-recognition",
+  "sidebar_label": "Demo - Face Recognition",
+  "sidebar": "intro",
+  "next": {
+    "title": "Build your first AI Face Application",
+    "permalink": "/shunyaface/docs/get-started/first-app"
+  }
+}

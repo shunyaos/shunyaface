@@ -1,0 +1,8 @@
+{
+  "id": "overview/introduction",
+  "title": "Introduction",
+  "description": "Whether you are a Startup, Maker or a hobbyist",
+  "source": "@site/docs/overview/introduction.md",
+  "permalink": "/shunyaface/docs/overview/introduction",
+  "sidebar_label": "Introduction"
+}

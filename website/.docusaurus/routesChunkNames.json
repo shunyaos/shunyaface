@@ -1,0 +1,113 @@
+{
+  "/shunyaface/": {
+    "component": "c4f5d8e4"
+  },
+  "/shunyaface/docs/:route": {
+    "component": "1be78505",
+    "docsMetadata": "d89250cc"
+  },
+  "/shunyaface/docs/apis/apis": {
+    "component": "17896441",
+    "content": "2ee8e562"
+  },
+  "/shunyaface/docs/build-solutions/01-intro": {
+    "component": "17896441",
+    "content": "5d9ceb4f"
+  },
+  "/shunyaface/docs/build-solutions/04-define": {
+    "component": "17896441",
+    "content": "3d5d5cc3"
+  },
+  "/shunyaface/docs/build-solutions/05-design": {
+    "component": "17896441",
+    "content": "1951b7df"
+  },
+  "/shunyaface/docs/build-solutions/categories/01-temp": {
+    "component": "17896441",
+    "content": "0d531224"
+  },
+  "/shunyaface/docs/build-solutions/categories/02-pressure": {
+    "component": "17896441",
+    "content": "93ff19f6"
+  },
+  "/shunyaface/docs/build-solutions/categories/03-humidity": {
+    "component": "17896441",
+    "content": "dddaf10c"
+  },
+  "/shunyaface/docs/build-solutions/categories/04-altitude": {
+    "component": "17896441",
+    "content": "f88df398"
+  },
+  "/shunyaface/docs/build-solutions/categories/05-distance": {
+    "component": "17896441",
+    "content": "7148dfef"
+  },
+  "/shunyaface/docs/build-solutions/categories/06-light": {
+    "component": "17896441",
+    "content": "5a8ac0bb"
+  },
+  "/shunyaface/docs/build-solutions/categories/07-liquid_flow": {
+    "component": "17896441",
+    "content": "1936fe39"
+  },
+  "/shunyaface/docs/build-solutions/categories/08-analog_voltage": {
+    "component": "17896441",
+    "content": "7d5005e9"
+  },
+  "/shunyaface/docs/build-solutions/categories/09-current": {
+    "component": "17896441",
+    "content": "7bea6041"
+  },
+  "/shunyaface/docs/build-solutions/categories/501-led": {
+    "component": "17896441",
+    "content": "c8ca6d0f"
+  },
+  "/shunyaface/docs/build-solutions/categories/502-relay": {
+    "component": "17896441",
+    "content": "edcd3a2a"
+  },
+  "/shunyaface/docs/demos/face-recognition": {
+    "component": "17896441",
+    "content": "5b4d6ce8"
+  },
+  "/shunyaface/docs/get-started/first-app": {
+    "component": "17896441",
+    "content": "0983b074"
+  },
+  "/shunyaface/docs/overview/actuators": {
+    "component": "17896441",
+    "content": "4a8288b4"
+  },
+  "/shunyaface/docs/overview/alerts": {
+    "component": "17896441",
+    "content": "508ae5fc"
+  },
+  "/shunyaface/docs/overview/boards": {
+    "component": "17896441",
+    "content": "2051d327"
+  },
+  "/shunyaface/docs/overview/cloud": {
+    "component": "17896441",
+    "content": "d3e7ad44"
+  },
+  "/shunyaface/docs/overview/connectivity": {
+    "component": "17896441",
+    "content": "9a81b1fd"
+  },
+  "/shunyaface/docs/overview/dashboards": {
+    "component": "17896441",
+    "content": "ff3fad31"
+  },
+  "/shunyaface/docs/overview/introduction": {
+    "component": "17896441",
+    "content": "8d7e75fb"
+  },
+  "/shunyaface/docs/overview/plc": {
+    "component": "17896441",
+    "content": "060633bd"
+  },
+  "/shunyaface/docs/overview/sensors": {
+    "component": "17896441",
+    "content": "e7f639d7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "get-started/first-app",
+  "title": "Build your first AI Face Application",
+  "description": "Whether you are a Startup, Maker or a hobbyist",
+  "source": "@site/docs/get-started/first-app.md",
+  "permalink": "/shunyaface/docs/get-started/first-app",
+  "sidebar_label": "First App",
+  "sidebar": "intro",
+  "previous": {
+    "title": "Face Recognition",
+    "permalink": "/shunyaface/docs/demos/face-recognition"
+  },
+  "next": {
+    "title": "APIs Documentation",
+    "permalink": "/shunyaface/docs/apis/apis"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "build-solutions/01-intro",
+  "title": "Introduction",
+  "description": "Whether you are a Startup, Maker or a hobbyist",
+  "source": "@site/docs/build-solutions/01-intro.md",
+  "permalink": "/shunyaface/docs/build-solutions/01-intro",
+  "sidebar_label": "Introduction"
+}

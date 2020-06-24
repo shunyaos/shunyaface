@@ -1,0 +1,8 @@
+{
+  "id": "build-solutions/categories/09-current",
+  "title": "Current",
+  "description": "List of Supported Sensors",
+  "source": "@site/docs/build-solutions/categories/09-current.md",
+  "permalink": "/shunyaface/docs/build-solutions/categories/09-current",
+  "sidebar_label": "Current"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "build-solutions/categories/08-analog_voltage",
+  "title": "Analog Voltage",
+  "description": "List of Supported Sensors",
+  "source": "@site/docs/build-solutions/categories/08-analog_voltage.md",
+  "permalink": "/shunyaface/docs/build-solutions/categories/08-analog_voltage",
+  "sidebar_label": "Analog Voltage"
+}

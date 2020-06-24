@@ -1,0 +1,8 @@
+{
+  "id": "overview/boards",
+  "title": "Embedded Boards",
+  "description": "List of all embedded Boards that Shunya interfaces supports.",
+  "source": "@site/docs/overview/embedded-boards.md",
+  "permalink": "/shunyaface/docs/overview/boards",
+  "sidebar_label": "Embedded Boards"
+}

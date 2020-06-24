@@ -1,0 +1,8 @@
+{
+  "id": "overview/dashboards",
+  "title": "Dashboards",
+  "description": "Send your data to these dashboards.",
+  "source": "@site/docs/overview/dashboard.md",
+  "permalink": "/shunyaface/docs/overview/dashboards",
+  "sidebar_label": "Dashboards"
+}

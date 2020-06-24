@@ -1,0 +1,8 @@
+{
+  "id": "build-solutions/05-design",
+  "title": "Build your Prototype",
+  "description": "Step 1: Select Sensors, Actuators and Insight tools",
+  "source": "@site/docs/build-solutions/05-design.md",
+  "permalink": "/shunyaface/docs/build-solutions/05-design",
+  "sidebar_label": "Build"
+}
