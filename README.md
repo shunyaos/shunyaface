@@ -1,7 +1,7 @@
 # Shunyaface Library
-Updates : Project moved to https://shunyaos.github.io/shunyaface/
+Updates : Project documentation(beta) is on  https://shunyaos.github.io/shunyaface/
 
-Restrictions on usage relaxed it will work for few months for you . When you are sure and want to use it in a product .Please raise an issue .
+Restrictions on usage is relaxed it will work for few months for you . When you are sure and want to use it in a product .Please raise an issue .
 
 > Shunyaface is a face Detection/Recognition Library which simplifies face detection/recognition on devices which support Shunya OS. 
 
@@ -23,8 +23,7 @@ The project aims to achieve fastest detection and recognition speed with low pow
 Shunyaface is written for embedded-devices like RPI-4,RPI-3,Hikey970,etc and uses Shunyaos.
 Currently the library **achieves a detection FPS of 16-17 FPS on the RaspberryPi-4**. 
 
-This Library is a trial edition and will support detection/recognition upto 100 faces.
-
+This Library is a trial edition and will support detection/recognition for atleast 3 months (it uses a different method to determine if user has had enough trials of the code)
 
 ## Screenshots
 ![Example screenshot](./demo/face-detect.png)
