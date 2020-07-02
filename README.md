@@ -1,4 +1,7 @@
 # Shunyaface Library
+Updates : Project moved to https://shunyaos.github.io/shunyaface/
+
+Restrictions on usage relaxed it will work for few months for you . When you are sure and want to use it in a product .Please raise an issue .
 
 > Shunyaface is a face Detection/Recognition Library which simplifies face detection/recognition on devices which support Shunya OS. 
 
