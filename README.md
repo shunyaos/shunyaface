@@ -2,7 +2,7 @@
 Updates : Project documentation(beta) is on  https://shunyaos.github.io/shunyaface/
 
 
-**ImportantNote:** `Following instructions are old and deprecated, it will be updated soon.`
+**ImportantNote:** `Following instructions are old and deprecated, it will be updated before 20th October 2020.`
 
 ----------
 -------
